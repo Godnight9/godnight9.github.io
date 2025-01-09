@@ -32,7 +32,8 @@ fontawesome:
   css: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css
 
 search:
-  js: https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
+  # js: https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js
+  js: /assets/lib/simple-jekyll-search/simple-jekyll-search.min.js
 
 mermaid:
   js: https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js
