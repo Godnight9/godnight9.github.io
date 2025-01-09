@@ -9,5 +9,6 @@ order: 4
     <h3>💭 My thoughts:</h3>
     <p>A few years ago, I have very ambitious plans for the future. But now I know that the only thing I can control is the present moment. Instead of looking to the future, I should enjoy the present.</p>
     <h3>✉️ Contact me:</h3>
-    <a href="mailto:god_night_@outlook.com"><img src="/assets/outlook.svg" /></a>
+    <a href="mailto:god_night_@outlook.com"><img src="/assets/outlook.svg" alt="god_night_@outlook.com" /></a>
 </div>
+
