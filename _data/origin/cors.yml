@@ -2,10 +2,13 @@
 
 cdns:
   # Google Fonts
-  - url: https://fonts.googleapis.com
-  - url: https://fonts.gstatic.com
+  # - url: https://fonts.googleapis.com
+  - url: https://fonts.googleapis.cn
+  # - url: https://fonts.gstatic.com
+  - url: https://fonts.gstatic.cn
     args: crossorigin
-  - url: https://fonts.googleapis.com
+  # - url: https://fonts.googleapis.com
+  - url: https://fonts.googleapis.cn
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
   # polyfill.io for math (cdnjs.cloudflare.com/polyfill)
