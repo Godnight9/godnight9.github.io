@@ -1,8 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
 <div align="center">
     <h3>🙋 Who am I:</h3>
     <p>A college student, and also a part-time Server O&M with over 8 years of experience. I'm aspired to be a Full-Stack software engineer and a IT professional. I love to work with software development, server management, classic versions of operating system, and retro computers.</p>
@@ -11,3 +6,4 @@ order: 4
     <h3>✉️ Contact me:</h3>
     <a href="mailto:god_night_@outlook.com"><img src="https://img.shields.io/static/v1?label=Outlook&message=god_night_@outlook.com&color=blue&style=for-the-badge" /></a>
 </div>
+
