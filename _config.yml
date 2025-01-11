@@ -227,5 +227,6 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
+  - jekyll-sitemap
 
 excerpt_separator: <!--more-->

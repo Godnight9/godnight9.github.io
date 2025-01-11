@@ -3,8 +3,9 @@ title: Hello World!
 date: 2025-01-09 00:00:00 +0800
 categories: [Blog, HelloWorld!]
 tags: [HelloWorld]
-excerpt: 新 Blog 内容测试.
 ---
+新 Blog 内容测试.
+<!--more-->
 
 ## 标题测试
 
