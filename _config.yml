@@ -227,3 +227,5 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
+
+excerpt_separator: <!--more-->
