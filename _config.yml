@@ -228,5 +228,3 @@ jekyll-archives:
 
 plugins:
   - jekyll-sitemap
-
-excerpt_separator: <!--more-->
