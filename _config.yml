@@ -185,6 +185,7 @@ defaults:
       permalink: /posts/:title/
       math: true
       mermaid: true
+      description: ""
   - scope:
       path: _drafts
     values:
